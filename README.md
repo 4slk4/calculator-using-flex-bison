@@ -1,6 +1,6 @@
 # SIMPLE CALCULATOR WITH FLEX & BISON
 
-The code only works on GNU/Linux system with installed Flex & Bison
+The code only works on GNU/Linux system with installed Flex & Bison.
 
 To compile, simply execute the command "make" and then "./calculator"
 
